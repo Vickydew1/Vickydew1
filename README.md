@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vicky</h1>
+<h1 align="center">Hi 👋, I'm Vicky Dewangan</h1>
 <h3 align="center">I am a Undergraduate student in SSTC Bhilai 🎓 studying ✒ Computer Science Engineering. I am a versatile person who loves to learn about all new technologies and make my hands dirty on them. I am a Front-End Developer, Open Source Enthusiast and full-time adventure seeker. Thanks for visiting and I'd love to connect!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vickydew1&label=Profile%20views&color=0e75b6&style=flat" alt="vickydew1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickydew1" alt="vickydew1" /></a> </p>
 
