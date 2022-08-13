@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickydew1" alt="vickydew1" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Web-dev and Cyber Security**
+- 🌱 I’m currently learning **Backend Web-dev and Data Structure And Alogorithms**
 
 - 👨‍💻 All of my projects are available at [vicky-portfolio.rf.gd/](vicky-portfolio.rf.gd/)
 
