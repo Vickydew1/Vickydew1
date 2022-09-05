@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Front-End Web dev , Framework,Stock and crpyto**
 
-- 📫 How to reach me **vickydewangan581@gmail.com**
+- 📫 How to reach me **dewanganvicky51@gmail.com**
 
 - ⚡ Fun fact **I think I am fun , I love networking and meeting new people**
 
