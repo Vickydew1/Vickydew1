@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vicky Dewangan</h1>
-<h3 align="center">🌍 Bridging Tech & Climate for a Greener Tomorrow | Forward Deployed Engineer at AccuKnox | Cybersecurity & Cloud Enthusiast</h3>
+<h3 align="center">🌍 Bridging Tech & Climate for a Greener Tomorrow |  Cybersecurity & Cloud Enthusiast</h3>
 
 <p align="center">
   I’m an engineer and climate advocate passionate about using technology to secure our digital future and protect our planet.  
