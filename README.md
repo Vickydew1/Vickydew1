@@ -9,11 +9,8 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vickydew1&theme=dracula&margin-w=10&margin-h=10" alt="vickydew1 trophies" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=vickydew1&theme=dracula&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
