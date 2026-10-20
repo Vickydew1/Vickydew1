@@ -1,162 +1,128 @@
-<!--
-  VICKY DEWANGAN // PROFILE README
-  Theme: Cyberfuture / Terminal / Neon
--->
-
 <div align="center">
 
-<!-- Replace this banner URL with your own custom banner if you make one -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:101B3F,70:00F5D4,100:7B2CFF&height=220&section=header&text=VICKY%20DEWANGAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEER%20%7C%20CLOUD%20SECURITY%20%7C%20CLIMATE%20TECH&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Vicky Dewangan — Engineer, Cloud Security, Climate Tech" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:070B16,45:111C3A,75:00E5FF,100:8B5CF6&text=VICKY%20DEWANGAN&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=ENGINEER%20%2F%20CLOUD%20SECURITY%20%2F%20CLIMATE%20TECH&descSize=14&descAlignY=59&animation=fadeIn" width="100%" alt="Vicky Dewangan — Cloud Security, Engineering, Climate Tech" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=700&lines=Securing+cloud-native+worlds+%F0%9F%94%90;Building+things+that+actually+ship+%F0%9F%9A%80;Code+with+purpose.+Think+planet-first+%F0%9F%8C%8D;Curiosity+is+my+default+setting+%E2%9A%A1" alt="Animated intro: cloud security, engineering, climate tech" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=850&color=00E5FF&center=true&vCenter=true&width=720&lines=I+secure+cloud-native+systems.;I+build+software+that+solves+real+problems.;I+believe+tech+should+leave+the+planet+better." alt="Animated tagline" />
 
 <br/>
 
-<a href="https://linkedin.com/in/vickydewangan"><img src="https://img.shields.io/badge/LINKEDIN-00F5D4?style=for-the-badge&logo=linkedin&logoColor=050816" alt="LinkedIn" /></a>
-<a href="https://vicky-portfolio.rf.gd"><img src="https://img.shields.io/badge/PORTFOLIO-7B2CFF?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:dewanganvicky135@gmail.com"><img src="https://img.shields.io/badge/CONTACT-050816?style=for-the-badge&logo=gmail&logoColor=00F5D4" alt="Email" /></a>
-<a href="https://github.com/vickydew1"><img src="https://img.shields.io/badge/GITHUB-101B3F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/vickydewangan"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://vicky-portfolio.rf.gd"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:dewanganvicky135@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=vickydew1&style=flat-square&color=00F5D4&label=PROFILE+VIEWS)
-![Focus](https://img.shields.io/badge/FOCUS-CLOUD%20%2B%20SECURITY-7B2CFF?style=flat-square)
-![Planet](https://img.shields.io/badge/ALSO-PLANET%20EARTH-00F5D4?style=flat-square&labelColor=101B3F)
+`FORWARD DEPLOYED ENGINEER @ ACCUKNOX` &nbsp; `CLOUD-NATIVE SECURITY` &nbsp; `CLIMATE ADVOCATE`
 
 </div>
 
 ---
 
-## `root@vicky:~$ whoami`
+## `whoami`
 
-> **Forward Deployed Engineer @ AccuKnox**  
-> Cloud-native security enthusiast. Software engineer. Climate advocate.  
-> I like complex problems, useful tools, and technology with a purpose.
+Hey, I'm Vicky — an engineer who likes getting close to real problems, understanding how systems behave, and building solutions that are useful, reliable, and secure.
 
-I work where **cloud infrastructure meets security** — helping bring practical security solutions into real-world environments. When I'm not thinking about Kubernetes or backend systems, I'm usually exploring how technology and people can make a difference for the planet. 🌍
+At **[AccuKnox](https://accuknox.com/)**, I work around cloud-native security, Kubernetes runtime protection, and DevSecOps. Outside engineering, I'm interested in climate action and biodiversity — because building a better future should mean more than shipping better software.
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│  USER       vickydew1                                        │
-│  ROLE       Forward Deployed Engineer @ AccuKnox             │
-│  INTERESTS  Cloud Security / Backend / DevSecOps / Climate   │
-│  MINDSET    Build it. Secure it. Make it matter.             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  CURRENT ROLE   Forward Deployed Engineer @ AccuKnox          │
+│  CORE ZONE      Cloud Security · Backend · DevSecOps          │
+│  SIDE QUEST     Climate Action · Biodiversity · Climate Tech   │
+│  BUILD PHILOSOPHY  Understand → Build → Secure → Improve       │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-## `root@vicky:~$ ./current-mission.sh`
+## `mission_control/`
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Cloud & Security
-- Kubernetes runtime protection
-- Cloud-native security
-- DevSecOps practices
-- Exploring resilient infrastructure
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Engineering
-- Python, FastAPI & Django
-- Node.js, React & SQL
-- APIs, automation & data workflows
-- Turning messy problems into usable systems
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 Planet-first thinking
-- Climate action
-- Biodiversity conservation
-- Climate-tech exploration
-- Youth participation in global conversations
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Always curious
-- Learning by building
-- Open-source collaboration
-- Systems that solve real problems
-- Ideas that connect tech with impact
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Cloud & Security</h3>
+      Kubernetes runtime protection, cloud-native security, DevSecOps, and resilient workloads.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Software Engineering</h3>
+      Backend services, APIs, automation, data workflows, and practical product engineering.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧰 Build toolkit</h3>
+      Python, FastAPI, Django, Node.js, React, C++, SQL, Docker, and Kubernetes.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 Planet mode</h3>
+      Climate action, biodiversity conservation, and technology for meaningful impact.
+    </td>
+  </tr>
 </table>
 
-## `root@vicky:~$ tech --stack`
+## `tech_stack --visual`
 
 <div align="center">
 
-### LANGUAGES & BACKEND
+**LANGUAGES & APPLICATIONS**
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,react,cpp,mysql&theme=dark" alt="Python, FastAPI, Django, Node.js, React, C++, and MySQL" />
 
-### CLOUD, INFRASTRUCTURE & TOOLS
+**CLOUD & DEVELOPER TOOLS**
 
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,gcp,linux,git,github&theme=dark" alt="Kubernetes, Docker, Google Cloud, Linux, Git, and GitHub" />
 
 </div>
 
-> **My sweet spot:** backend engineering + cloud infrastructure + security.  
-> The goal isn't just to make things work — it's to make them useful, reliable, and secure.
+> **My kind of engineering:** understand the problem first, build with purpose, and keep security in the design — not as an afterthought.
 
-## `root@vicky:~$ ./outside-the-terminal`
+## `outside_the_terminal/`
 
-**Not everything worth building runs on a server.** 🌱
+Not every meaningful problem can be solved with code. 🌱
 
-I'm also interested in climate action and biodiversity, and in how young people can help shape a more sustainable future. I've been involved with:
+I'm interested in the people, communities, and ideas shaping a more sustainable future. My climate and biodiversity interests include involvement with youth-led networks and programs such as:
 
 - 🌿 [Global Youth Biodiversity Network](https://gybn.org/)
 - 🌎 [YOUNGO](https://youngoclimate.org/)
 - 🤝 [Harvard Project for Asian and International Relations](https://www.hpair.org/)
 
-Tech and climate advocacy might look like different worlds, but both are about solving difficult problems, collaborating across perspectives, and thinking beyond the immediate win.
+**The common thread:** solve hard problems, collaborate across perspectives, and think beyond the immediate win.
 
-## `root@vicky:~$ ls ~/projects`
+## `featured_work/`
 
-I use GitHub to share experiments, projects, and things I learn along the way.
+The best way to understand an engineer is to see what they've built.
 
-🔎 **Explore my repositories:** [github.com/vickydew1?tab=repositories](https://github.com/vickydew1?tab=repositories)
+🔎 **[Explore all my repositories →](https://github.com/Vickydew1?tab=repositories)**
 
-> Got a project worth building, a security problem worth solving, or a climate-tech idea? Let's talk.
+> **Personalize this section:** pin 2–3 of your strongest repositories on your GitHub profile, then replace this line with direct links and one-sentence descriptions of what you built. Real projects will make this profile much stronger than extra badges.
 
-## `root@vicky:~$ git status`
+## `github_telemetry/`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vickydew1&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5D4&icon_color=7B2CFF&text_color=E6F1FF&rank_icon=github" alt="GitHub statistics for Vicky Dewangan" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickydew1&layout=compact&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=E6F1FF" alt="Most-used languages in public repositories" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vickydew1&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00E5FF&icon_color=8B5CF6&text_color=E2E8F0&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickydew1&layout=compact&hide_border=true&bg_color=0B1020&title_color=00E5FF&text_color=E2E8F0" height="165" alt="Most-used languages in public repositories" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vickydew1&hide_border=true&background=050816&ring=00F5D4&fire=7B2CFF&currStreakLabel=00F5D4&sideLabels=E6F1FF&dates=9AA4B2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Vickydew1&hide_border=true&background=0B1020&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 
 </div>
 
-## `root@vicky:~$ ping vicky`
+<sub>Stats are generated by external services and may occasionally be unavailable.</sub>
+
+## `connect --open`
+
+Got an interesting cloud security problem, an engineering idea, an open-source project, or a climate-tech concept? Let's connect.
 
 <div align="center">
 
-**Have an interesting idea? Send a signal.** 📡
-
-<a href="https://linkedin.com/in/vickydewangan"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00F5D4?style=for-the-badge&logo=linkedin&logoColor=050816" alt="Connect on LinkedIn" /></a>
-<a href="mailto:dewanganvicky135@gmail.com"><img src="https://img.shields.io/badge/DROP_ME_AN_EMAIL-7B2CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vicky" /></a>
+<a href="https://linkedin.com/in/vickydewangan"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:dewanganvicky135@gmail.com"><img src="https://img.shields.io/badge/Email-Start%20a%20conversation-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vicky" /></a>
+<a href="https://vicky-portfolio.rf.gd"><img src="https://img.shields.io/badge/Portfolio-See%20more-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
 
 <br/><br/>
 
-```text
-[ SYSTEM MESSAGE ]
-Stay curious.
-Build responsibly.
-Leave the planet better than you found it.
-```
+**STAY CURIOUS. BUILD RESPONSIBLY. LEAVE THINGS BETTER.** 🌍
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,45:101B3F,100:050816&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00E5FF,45:111C3A,100:070B16" width="100%" alt="" />
 
 </div>
