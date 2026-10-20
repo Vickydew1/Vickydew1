@@ -6,7 +6,7 @@ GitHub does not allow profile README Markdown to change the entire page backgrou
 -->
 
 <div align="center">
-  <img src="./assets/futuristic-header.svg" alt="Futuristic cybernetic skyline blending cloud infrastructure with a living green planet" width="100%" />
+  <img src="./asessts/futuristic-header.svg" alt="Futuristic cybernetic skyline blending cloud infrastructure with a living green planet" width="100%" />
 </div>
 
 <div align="center">
