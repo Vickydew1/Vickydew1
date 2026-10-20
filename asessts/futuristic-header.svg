@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Vicky Dewangan — Future systems, living planet</title>
+  <desc id="desc">A dark midnight-blue cyberpunk skyline with cyan circuitry, violet orbital lines, and a luminous green planet horizon.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050816"/><stop offset="0.5" stop-color="#101436"/><stop offset="1" stop-color="#061b24"/></linearGradient>
+    <linearGradient id="planet" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00f5c8"/><stop offset="0.55" stop-color="#37d67a"/><stop offset="1" stop-color="#0b6d7c"/></linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e5ff" stop-opacity="0"/><stop offset="0.5" stop-color="#00e5ff" stop-opacity=".9"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#5deaff" stroke-opacity=".09" stroke-width="1"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="planetClip"><circle cx="1015" cy="235" r="104"/></clipPath>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M0 72H320L365 117H500" stroke="#7c4dff" stroke-width="1.5" stroke-opacity=".75"/>
+    <path d="M0 284H230L270 244H405" stroke="#00e5ff" stroke-width="1.5" stroke-opacity=".65"/>
+    <path d="M790 36H965L1000 71H1200" stroke="#00e5ff" stroke-width="1.5" stroke-opacity=".6"/>
+    <path d="M830 315H1030L1070 275H1200" stroke="#37d67a" stroke-width="1.5" stroke-opacity=".7"/>
+    <path d="M55 132H220M55 140H160M750 106H875M1090 130H1160" stroke="#00e5ff" stroke-opacity=".35"/>
+  </g>
+  <g fill="#00e5ff" filter="url(#glow)"><circle cx="320" cy="72" r="3"/><circle cx="270" cy="244" r="3"/><circle cx="965" cy="36" r="3"/></g>
+  <g transform="translate(65 170)" fill="none" stroke="#00e5ff" stroke-width="1.4" stroke-opacity=".75">
+    <path d="M0 0H40V-22H74V10H105V-14H134"/><path d="M0 22H24V42H58V26H91V48H122" stroke="#7c4dff"/>
+    <circle cx="40" cy="0" r="3" fill="#00e5ff"/><circle cx="74" cy="-22" r="3" fill="#00e5ff"/><circle cx="91" cy="48" r="3" fill="#7c4dff"/>
+  </g>
+  <g opacity=".85">
+    <path d="M0 310L65 310L83 288L105 288L126 310L156 310L175 275L204 275L224 310L255 310L278 292L300 292L322 310L350 310L370 265L397 265L423 310L454 310L480 286L510 286L533 310L565 310L590 278L619 278L642 310L680 310L702 290L727 290L748 310L782 310" fill="#080d20" stroke="#00e5ff" stroke-opacity=".5"/>
+    <path d="M0 326H800" stroke="#00e5ff" stroke-width="1" stroke-opacity=".6"/>
+    <path d="M0 335H740" stroke="#7c4dff" stroke-width="1" stroke-opacity=".4"/>
+  </g>
+  <circle cx="1015" cy="235" r="113" fill="none" stroke="#00e5ff" stroke-opacity=".25" stroke-width="1"/>
+  <circle cx="1015" cy="235" r="104" fill="url(#planet)"/>
+  <g clip-path="url(#planetClip)">
+    <path d="M915 192L947 173L969 181L982 165L1001 174L1010 196L1033 201L1044 222L1027 239L1007 234L995 251L970 245L953 262L927 247L910 222Z" fill="#062f39" opacity=".9"/>
+    <path d="M1033 127L1054 149L1048 168L1074 184L1065 204L1088 223L1074 246L1090 270L1067 291L1049 314L1028 292L1036 267L1019 249L1031 226L1015 209L1029 185L1015 162Z" fill="#063b40" opacity=".85"/>
+    <path d="M900 245C955 216 1010 258 1060 222S1132 219 1150 239" fill="none" stroke="#d4fff1" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M910 280C965 250 1028 298 1090 260" fill="none" stroke="#d4fff1" stroke-opacity=".35"/>
+    <path d="M930 150C960 190 960 255 933 300M1005 130C1032 180 1034 250 1005 338M1080 150C1050 205 1054 270 1080 320" fill="none" stroke="#e0fff6" stroke-opacity=".25"/>
+  </g>
+  <ellipse cx="1015" cy="235" rx="144" ry="42" transform="rotate(-20 1015 235)" fill="none" stroke="#7c4dff" stroke-width="2" stroke-opacity=".9"/>
+  <ellipse cx="1015" cy="235" rx="150" ry="47" transform="rotate(24 1015 235)" fill="none" stroke="#00e5ff" stroke-width="1" stroke-opacity=".5"/>
+  <path d="M805 325H1190" stroke="url(#beam)" stroke-width="3" filter="url(#glow)"/>
+  <g font-family="monospace" fill="#eafaff">
+    <text x="70" y="112" font-size="12" letter-spacing="5" fill="#00e5ff">FUTURE SYSTEMS / LIVING PLANET</text>
+    <text x="65" y="204" font-size="43" font-weight="700" letter-spacing="1">VICKY DEWANGAN</text>
+    <text x="68" y="235" font-size="15" letter-spacing="2" fill="#b7c9ef">FORWARD DEPLOYED ENGINEER</text>
+    <text x="68" y="258" font-size="12" letter-spacing="1.4" fill="#56f4c4">CLOUD-NATIVE SECURITY  ·  CLIMATE ACTION</text>
+    <text x="70" y="344" font-size="10" letter-spacing="3" fill="#8294c6">ENGINEER WITH INTENT // BUILD FOR TOMORROW</text>
+  </g>
+</svg>
